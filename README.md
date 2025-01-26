@@ -12,26 +12,38 @@ Currently, I'm working as a **Sr. Engineer (Lead Backend Services)** at **FirstH
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Programming GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
+![Framework GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Cloud GIF](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+![DevOps GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 ### Streaming/Processing
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+![Streaming GIF](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![Tools GIF](https://media.giphy.com/media/UqZP4aK2XxhwQuOGFr/giphy.gif)
 
 ## 📚 Current Focus
 - Building a **Payment Service System** for seamless financial transactions.
@@ -40,8 +52,7 @@ Currently, I'm working as a **Sr. Engineer (Lead Backend Services)** at **FirstH
 
 ## 🎯 Goals
 - **Professional:** Enhance my expertise in **cloud-native architectures** and **distributed systems**.
-- **Personal:** Embrace my passion for **running** and **gym workouts**.
-
+- **Personal:** Stay committed to **intermittent fasting**, maintain my fitness, and embrace my passion for **running** and **gym workouts**.
 
 ## 💡 Fun Facts
 - I'm a **problem-solving enthusiast** and regularly solve challenges on Leetcode.
