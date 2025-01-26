@@ -50,7 +50,7 @@ Currently, I'm working as a **Sr. Engineer (Lead Backend Services)** at **FirstH
 ## 📫 How to Reach Me
 - **LinkedIn:** [Rishabh Agarwal](https://linkedin.com/in/rishabh-agarwal)
 - **Email:** rishabh.agarwal1124@gmail.com
-- **GitHub:** [rishabh-a](https://github.com/rishabh-a)
+- **GitHub:** [rishabh-a](https://github.com/rishabh-agarwal)
 
 ---
 
